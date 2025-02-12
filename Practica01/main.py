@@ -1,6 +1,8 @@
 import turtle  
 from random import random
 import time
+# Nombre: Armenta Fuentes Lobsang Leonardo
+#Codigo creacion de cubo usando turtle
 
 # La flecha con la que se va a crear el cubo
 flecha = turtle.Turtle() 
